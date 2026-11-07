@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: proyecto-turnos
+Version: 1.0.0
+Requires-Python: >=3.11
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pygad
+Requires-Dist: numpy
+Requires-Dist: httpx2>=2.16.0

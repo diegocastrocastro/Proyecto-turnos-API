@@ -2,4 +2,10 @@
 name = "proyecto-turnos" 
 version = "1.0.0" 
 requires-python = ">=3.11" 
-dependencies = ["fastapi", "uvicorn", "pygad", "numpy"] 
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pygad",
+    "numpy",
+    "httpx2>=2.16.0",
+] 

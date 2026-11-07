@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pygad
+numpy
+httpx2>=2.16.0
